@@ -17,7 +17,7 @@
 
 ### 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=m2ntchoco&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?m2ntchoco=YOUR_ID&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m2ntchoco&layout=compact&theme=radical)
 
 ### 🔗 Links
 [![Notion](https://img.shields.io/badge/Notion-Workspace-2F3437?logo=notion&logoColor=white)]([https://www.notion.so/26c025885dc38047b38bf954ee684f0e?source=copy_link](https://bow-ninja-2ba.notion.site/26c025885dc38047b38bf954ee684f0e?source=copy_link))
