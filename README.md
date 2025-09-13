@@ -16,8 +16,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=m2ntchoco&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?m2ntchoco=YOUR_ID&layout=compact&theme=radical)
 
 ### 🔗 Links
 [![Notion](https://img.shields.io/badge/Notion-Workspace-2F3437?logo=notion&logoColor=white)]([https://www.notion.so/26c025885dc38047b38bf954ee684f0e?source=copy_link](https://bow-ninja-2ba.notion.site/26c025885dc38047b38bf954ee684f0e?source=copy_link))
