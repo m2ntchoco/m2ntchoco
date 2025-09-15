@@ -3,7 +3,7 @@
 <p align="center">
 🎮 Indie Game Developer · ⚙️ Unity & C# 
 </p>
-<a href= "https://periodic-point-cb3.notion.site/26fbcae78d6a80e1b109ffc8af5773f1?source=copy_link"> <h5 Notion>
+<a href= "https://periodic-point-cb3.notion.site/26fbcae78d6a80e1b109ffc8af5773f1?source=copy_link"> Notion </a>
 
 ---
 
