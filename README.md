@@ -3,12 +3,13 @@
 <p align="center">
 🎮 Indie Game Developer · ⚙️ Unity & C# 
 </p>
+<a href= "https://periodic-point-cb3.notion.site/26fbcae78d6a80e1b109ffc8af5773f1?source=copy_link"> <h5 Notion>
 
 ---
 
 ### 🚀 Featured
 - 《REVERSE STREAM》 – 2D 픽셀 다크판타지 로그라이크 (Unity 6)
-  - <a href="https://github.com/idioits777/reverse-stream">Repo</a> · <a href="https://bow-ninja-2ba.notion.site/REVERSE_STREAM-1fc025885dc380a48c9fd0ccf7573f88?source=copy_link">Notion 바로가기</a>
+  - <a href="https://github.com/idioits777/reverse-stream">Repo</a> · <a href="https://bow-ninja-2ba.notion.site/REVERSE_STREAM-1fc025885dc380a48c9fd0ccf7573f88?source=copy_link"> ReverseStreamNotion 바로가기</a>
 
 ### 🛠 Tech Stack
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
